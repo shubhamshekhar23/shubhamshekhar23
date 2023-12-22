@@ -12,6 +12,10 @@ I’m a Full stack JavaScript developer, with a focus on Front End and having 6+
 * 🧠  I'm learning skills related to Front End Architecture
 * ⚡  I like to sing and play guitar 🎤🎸
 
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/shubhamshekhar23/Card-Spend-Tracker-React" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamshekhar23&repo=Card-Spend-Tracker-React&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/shubhamshekhar23/E-Commerce-App-React" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamshekhar23&repo=E-Commerce-App-React&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
 ### Skills
 
 
@@ -32,6 +36,4 @@ I’m a Full stack JavaScript developer, with a focus on Front End and having 6+
 
 <a href="https://github.com/shubhamshekhar23" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamshekhar23&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/shubhamshekhar23/Card-Spend-Tracker-React" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamshekhar23&repo=Card-Spend-Tracker-React&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/shubhamshekhar23/E-Commerce-App-React" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamshekhar23&repo=E-Commerce-App-React&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
