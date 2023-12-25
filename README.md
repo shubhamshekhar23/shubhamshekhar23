@@ -10,7 +10,6 @@ I’m a Full stack JavaScript developer, with a focus on Front End and having 6+
 * ✉️  You can contact me at [shubham.ae.iitkgp@gmail.com](mailto:shubham.ae.iitkgp@gmail.com)
 * 🚀  I'm currently working on [Mediaflix](http://github.com/shubhamshekhar23/Movie-Watchlist-Vue)
 * 🧠  I'm learning Clean Architecture and Design patterns in Front-end
-* ⚡  I like to sing and play guitar 🎤🎸
 
 <b>Top Repositories</b>
 
