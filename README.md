@@ -20,6 +20,10 @@ I’m a Full stack JavaScript developer, with a focus on Front End and having 6+
 
 <br /><br /><br /><br /><br /><br />
 
+<div width="100%" align="center"><a href="https://github.com/shubhamshekhar23/Art-Gallery-Angular" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamshekhar23&repo=Art-Gallery-Angular&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/shubhamshekhar23/Delivery-Cost-Angular" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamshekhar23&repo=Delivery-Cost-Angular&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+<br /><br /><br /><br /><br /><br />
+
 ### Skills
 
 
