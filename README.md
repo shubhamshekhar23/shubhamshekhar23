@@ -1,12 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shubham Shekhar
 =======================================================================================================================================
 
-Experienced Front End Engineer ([Portfolio](https://shubham10.vercel.app/))
+Experienced Front End Engineer
 ------------------------------
 
 I’m a Full stack JavaScript developer, with a focus on Front End and having 6+ years of professional experience in developing complex web applications.
 
 * 🌍  I'm based in India
+* 📝 [My Portfolio](https://shubham10.vercel.app/)
 * ✉️  You can contact me at [shubham.ae.iitkgp@gmail.com](mailto:shubham.ae.iitkgp@gmail.com)
 * 🚀  I'm currently working on [Mediaflix](http://github.com/shubhamshekhar23/Movie-Watchlist-Vue)
 * 🧠  I'm learning Clean Architecture and Design patterns in Front-end
